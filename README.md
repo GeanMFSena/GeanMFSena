@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Gean Sena
+# 👨‍💻 Gean Sena
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Python/Analista de Dados`**
 
 Me chamo Gean Sena, tenho 22 anos e sou natural de Minas Gerais . Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FAM. 
 
