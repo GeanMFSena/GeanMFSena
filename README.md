@@ -42,6 +42,14 @@ Me chamo Gean Sena, tenho 22 anos e sou natural de Minas Gerais . Atualmente, es
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="SQL Server" 
+    title="SQL Server"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"
+/>
 
 <br/>
 <br/>
