@@ -2,7 +2,9 @@
 
 **`Desenvolvedor Python/Analista de Dados`**
 
-Me chamo Gean Sena, tenho 22 anos e sou natural de Minas Gerais . Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FAM. Tenho o objetivo de me tornar um analista de dados entao postarei todos os projetos pessoais que eu desenvolver aqui no Github e no Kaggle. Espero que goste 😁
+Meu nome é Gean Sena, tenho 22 anos e sou natural de Minas Gerais. Atualmente curso Análise e Desenvolvimento de Sistemas na FAM e tenho como objetivo me tornar analista de dados. Neste perfil, compartilharei todos os meus projetos pessoais, tanto aqui no GitHub quanto no Kaggle.
+
+Espero que goste do conteúdo! 😁
 
 <p align="left">
     <a href="https://github.com/GeanMFSena?tab=repositories">
