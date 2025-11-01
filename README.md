@@ -6,7 +6,7 @@ Meu nome é Gean Sena, tenho 22 anos e sou natural de Minas Gerais. Atualmente c
 
 Link do Kaggle : https://www.kaggle.com/geansena
 
-Link do Linkedin : https://www.linkedin.com/in/gean-sena
+Link do Linkedin : [https://www.linkedin.com/in/gean-sena](https://www.linkedin.com/in/gean-sena-5a6a95186/)
 
 Email : geansena990@gmail.com
 
