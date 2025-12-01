@@ -20,7 +20,7 @@ Espero que goste do conteúdo! 😁
             src="https://custom-icon-badges.demolab.com/github/stars/GeanMFSena?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/GeanMFSena?tab=repositories">
+    <a href="https://github.com/GeanMFSena?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
