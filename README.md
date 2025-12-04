@@ -1,4 +1,4 @@
-# 👨‍💻 Olá, sou o Gean Sena!
+# 👨‍💻 Gean Sena
 
 <div align="center">
   
