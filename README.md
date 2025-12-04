@@ -14,7 +14,7 @@
 
 ## 🙋‍♂️ Sobre Mim
 
-Sou natural de **Minas Gerais**, tenho 22 anos e sou apaixonado por tecnologia e dados. Atualmente, meu foco principal é a transição de carreira para **Análise de Dados**. 
+Sou natural de **Minas Gerais**, tenho 22 anos e sou apaixonado por tecnologia e dados. Atualmente, meu foco principal é me desenvolver para entrar na area de **Análise de Dados**. 
 
 Aqui no meu perfil, você encontrará meus projetos pessoais e estudos de caso focados em resolver problemas reais através da programação.
 
