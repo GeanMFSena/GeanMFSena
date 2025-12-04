@@ -1,103 +1,68 @@
-# 👨‍💻 Gean Sena
+# 👨‍💻 Olá, sou o Gean Sena!
 
-**`Desenvolvedor Python/Analista de Dados`**
+<div align="center">
+  
+  **`Desenvolvedor Python`** | **`Aspirante a Analista de Dados`**
 
-Meu nome é Gean Sena, tenho 22 anos e sou natural de Minas Gerais. 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO-AQUI)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/SEU-USUARIO-AQUI)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geansena990@gmail.com)
 
-tenho como objetivo me tornar analista de dados. Neste perfil, compartilharei todos os meus projetos pessoais, tanto aqui no GitHub quanto no Kaggle.
-
-
-
-Email : geansena990@gmail.com
-
-Espero que goste do conteúdo! 😁
-
-
-
-### 🤖 Linguagens e Tecnologias
-
-
-Tenho utilizado em meus projetos as seguintes tecnologias 
-
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL Server" 
-    title="SQL Server"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Power BI" 
-    title="Power BI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
-/>
-
-<img 
-    align="left" 
-    alt="HTML" 
-    title="HTML"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Figma" 
-    title="Figma"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
-/>
+</div>
 
 <br/>
+
+## 🙋‍♂️ Sobre Mim
+
+Sou natural de **Minas Gerais**, tenho 22 anos e sou apaixonado por tecnologia e dados. Atualmente, meu foco principal é a transição de carreira para **Análise de Dados**. 
+
+Aqui no meu perfil, você encontrará meus projetos pessoais e estudos de caso focados em resolver problemas reais através da programação.
+
+- 🔭 **Atualmente trabalhando em:** Projetos de automação e análise exploratória.
+- 🌱 **Atualmente aprendendo:** Estatística avançada e Storytelling com dados.
+- 🎯 **Objetivo:** Transformar dados brutos em insights valiosos.
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+Tenho experiência prática e utilizo em meus projetos as seguintes ferramentas:
+
+### 📊 Análise de Dados & Back-end
+<div style="display: inline_block">
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img align="center" alt="Numpy" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  <img align="center" alt="SQL Server" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="center" alt="PowerBI" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
+</div>
+
+### 🎨 Front-end & Design
+<div style="display: inline_block">
+  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</div>
+
+### 🛠 Ferramentas & Controle de Versão
+<div style="display: inline_block">
+  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="VS Code" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</div>
+
 <br/>
 
-### 📊 Estatísticas
+---
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GeanMFSena&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+## 📈 Estatísticas do GitHub
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeanMFSena&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
-  />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeanMFSena&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeanMFSena&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6"/>
+</div>
 
-</p>
+---
+
+<div align="center">
+  <sub>Espero que goste do conteúdo! 😁</sub>
+</div>
