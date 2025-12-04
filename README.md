@@ -4,10 +4,6 @@
 
 Meu nome é Gean Sena, tenho 22 anos e sou natural de Minas Gerais. Atualmente curso Análise e Desenvolvimento de Sistemas na FAM e tenho como objetivo me tornar analista de dados. Neste perfil, compartilharei todos os meus projetos pessoais, tanto aqui no GitHub quanto no Kaggle.
 
-Link do Kaggle : https://www.kaggle.com/geansena
-
-Link do Linkedin : [https://www.linkedin.com/in/gean-sena](https://www.linkedin.com/in/gean-sena-5a6a95186/)
-
 Email : geansena990@gmail.com
 
 Espero que goste do conteúdo! 😁
