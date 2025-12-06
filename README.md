@@ -56,8 +56,7 @@ Tenho experiência prática e utilizo em meus projetos as seguintes ferramentas:
 
 ## 📈 Estatísticas do GitHub
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GeanMFSena&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Gean stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeanMFSena&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" alt="Gean langs" />
+  <img src="https://metrics.lecoq.io/GeanMFSena?template=classic&base=header,activity,community,repositories,metadata&config.timezone=America%2FSao_Paulo" alt="Gean Metrics" />
 </div>
 ---
 
