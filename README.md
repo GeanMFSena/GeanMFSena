@@ -24,7 +24,7 @@ Aqui no meu perfil, você encontrará meus projetos pessoais e estudos de caso f
 
 ---
 
-<img align="right" alt="" height="100px" src="./src/study.gif">
+<img align="center-right" alt="" height="100px" src="./src/study.gif">
 
 ## 🚀 Tecnologias e Ferramentas
 
