@@ -30,26 +30,33 @@ Aqui no meu perfil, você encontrará meus projetos pessoais e estudos de caso f
 
 
 
-<img align="right" alt="" bottom="200px" height="200px" src="./src/study.gif">
+<img align="right" alt="" height="200px" src="./src/study.gif">
 
 
 <h3 align="left">My Stack ~</h3>
 
-<h3 align="left">Data Analysis</h3>
-<div align="left"
+  ### 📊 Análise de Dados & Back-end
+  <div style="display: inline_block">
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img width="8" />
   <img align="center" alt="Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img width="8" />
   <img align="center" alt="Numpy" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> <img width="8" />
   <img align="center" alt="SQL Server" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> <img width="8" />
   <img align="center" alt="PowerBI" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" /> <img width="8" />
+  </div>
+  
+  ### 🎨 Front-end & Design
+  <div style="display: inline_block">
   <h3 align="left">Front-End</h3>
   <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img width="8" />
   <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img width="8" />
   <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img width="8" />
-  <h3 align="left">Code</h3>
+  </div>
+
+  ### 🛠 Ferramentas & Controle de Versão
+  <div style="display: inline_block">
   <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img width="8" />
   <img align="center" alt="VS Code" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> <img width="8" />
-</div>  
+  </div>  
 
 
 
