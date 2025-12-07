@@ -24,7 +24,6 @@ Aqui no meu perfil, você encontrará meus projetos pessoais e estudos de caso f
 
 ---
 
-<img align="center-right" alt="" height="150px" src="./src/study.gif">
 
 ## 🚀 Tecnologias e Ferramentas
 
@@ -52,6 +51,8 @@ Tenho experiência prática e utilizo em meus projetos as seguintes ferramentas:
   <img align="center" alt="VS Code" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img width="8" />
 </div>  
+
+<img align="right" alt="" height="150px" src="./src/study.gif">
 
 <br/>
 
