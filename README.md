@@ -30,7 +30,7 @@ Aqui no meu perfil, você encontrará meus projetos pessoais e estudos de caso f
 
 
 
-<img align="right" alt="" height="200px" src="./src/study.gif">
+<img align="right" alt="" bottom="200px" height="200px" src="./src/study.gif">
 
 
 <h3 align="left">My Stack ~</h3>
