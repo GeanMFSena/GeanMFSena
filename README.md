@@ -29,7 +29,7 @@ Aqui no meu perfil, você encontrará meus projetos pessoais e estudos de caso f
 
 
 
-<img align="right" alt="" height="150px" src="./src/study.gif">
+<img align="right" alt="" height="200px" src="./src/study.gif">
 
 Tenho experiência prática e utilizo em meus projetos as seguintes ferramentas:
 
