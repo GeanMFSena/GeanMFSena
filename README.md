@@ -17,7 +17,9 @@
 
 <br/>
 
+<div style="display: inline_block">
 ## 🙋‍♂️ Sobre Mim
+
 
 Sou natural de **Minas Gerais**, tenho 22 anos e sou apaixonado por tecnologia e dados. Atualmente, meu foco principal é me desenvolver para entrar na area de **Análise de Dados**. 
 
@@ -27,7 +29,7 @@ Aqui no meu perfil, você encontrará meus projetos pessoais e estudos de caso f
 - 🌱 **Atualmente aprendendo:** Estatística avançada e Storytelling com dados.
 - 🎯 **Objetivo:** Transformar dados brutos em insights valiosos.
 
-
+</div>
 
 
 ## 🚀 Tecnologias, Ferramentas e Contatos
