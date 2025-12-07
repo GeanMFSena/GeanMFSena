@@ -30,7 +30,7 @@ Aqui no meu perfil, você encontrará meus projetos pessoais e estudos de caso f
 
 Tenho experiência prática e utilizo em meus projetos as seguintes ferramentas:
 
-
+<div align="left"
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width="8" />
   <img align="center" alt="Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
@@ -51,6 +51,7 @@ Tenho experiência prática e utilizo em meus projetos as seguintes ferramentas:
   <img width="8" />
   <img align="center" alt="VS Code" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img width="8" />
+</div>  
 
 <br/>
 
