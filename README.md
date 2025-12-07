@@ -12,7 +12,7 @@
 </div>
 
 
-<img align="center" alt="" height="200px" src="./src/study.gif">
+<img align="right" alt="" height="200px" src="./src/study.gif">
 
 
 
