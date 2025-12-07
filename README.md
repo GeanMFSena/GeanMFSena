@@ -59,7 +59,7 @@ Tenho experiência prática e utilizo em meus projetos as seguintes ferramentas:
   <img src="https://metrics.lecoq.io/GeanMFSena?template=classic&base=header,activity,community,repositories,metadata&config.timezone=America%2FSao_Paulo" alt="Gean Metrics" />
 </div>
 ---
-#
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeanMFSena/GeanMFSena/output/github-contribution-grid-snake-dark.svg">
