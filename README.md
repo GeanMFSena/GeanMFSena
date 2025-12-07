@@ -45,7 +45,6 @@ Aqui no meu perfil, você encontrará meus projetos pessoais e estudos de caso f
   
   ### 🎨 Front-end & Design
   <div style="display: inline_block">
-  <h3 align="left">Front-End</h3>
   <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img width="8" />
   <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img width="8" />
   <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img width="8" />
