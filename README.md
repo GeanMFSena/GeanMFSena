@@ -35,7 +35,8 @@ Tenho experiência prática e utilizo em meus projetos as seguintes ferramentas:
 
 <div align="left"
   
-  *ANALISE DE DADOS*
+  ### 📊 Análise de Dados & Back-end
+  <div style="display: inline_block">
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width="8" />
   <img align="center" alt="Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
@@ -46,20 +47,26 @@ Tenho experiência prática e utilizo em meus projetos as seguintes ferramentas:
   <img width="8" />
   <img align="center" alt="PowerBI" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
   <img width="8" />
+  </div>
   
-  *DESIGN*
+  ### 🎨 Front-end & Design
+  <div style="display: inline_block">
   <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="8" />
   <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="8" />
   <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img width="8" />
+  </div>
   
-  *CODE*
+  ### 🛠 Ferramentas & Controle de Versão
+  <div style="display: inline_block">
   <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img width="8" />
   <img align="center" alt="VS Code" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img width="8" />
+  </div> 
+  
 </div>  
 
 
