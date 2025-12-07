@@ -33,7 +33,6 @@ Aqui no meu perfil, você encontrará meus projetos pessoais e estudos de caso f
 <img align="right" alt="" height="200px" src="./src/study.gif">
 
 
-<h3 align="left">My Stack ~</h3>
 
   ### 📊 Análise de Dados & Back-end
   <div style="display: inline_block">
