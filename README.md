@@ -22,7 +22,7 @@ Aqui no meu perfil, você encontrará meus projetos pessoais e estudos de caso f
 - 🌱 **Atualmente aprendendo:** Estatística avançada e Storytelling com dados.
 - 🎯 **Objetivo:** Transformar dados brutos em insights valiosos.
 
----
+
 
 <img align="right" alt="" height="150px" src="./src/study.gif">
 
