@@ -12,7 +12,7 @@
 </div>
 
 
-<img align="right" alt="" height="200px" src="./src/study.gif">
+<img align="center" alt="" height="200px" src="./src/study.gif">
 
 
 
@@ -37,7 +37,7 @@ Aqui no meu perfil, você encontrará meus projetos pessoais e estudos de caso f
 
 
 
-<img align="center" alt="" height="200px" src="./src/programing1.jpg">
+<img align="right" alt="" height="200px" src="./src/programing1.jpg">
 
 
 
