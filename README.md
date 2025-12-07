@@ -58,7 +58,7 @@ Tenho experiência prática e utilizo em meus projetos as seguintes ferramentas:
 <div align="center">
   <img src="https://metrics.lecoq.io/GeanMFSena?template=classic&base=header,activity,community,repositories,metadata&config.timezone=America%2FSao_Paulo" alt="Gean Metrics" />
 </div>
----
+
 
 
 <picture align="center">
