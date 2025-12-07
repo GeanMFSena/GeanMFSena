@@ -29,9 +29,9 @@ Aqui no meu perfil, você encontrará meus projetos pessoais e estudos de caso f
 
 
 
-<img align="right" alt="" height="400px" src="./src/study.gif">
+<img align="right" alt="" height="150px" src="./src/study.gif">
 
-Tenho experiência prática e utilizo em meus projetos as seguintes ferramentas:
+<h3 align="left">My Stack ~</h3>
 
 <div align="left"
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img width="8" />
