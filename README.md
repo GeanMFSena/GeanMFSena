@@ -71,9 +71,6 @@ Tenho experiência prática e utilizo em meus projetos as seguintes ferramentas:
 
 
 
-<br/>
-<br/>
-
 ---
 
 ## 📈 Estatísticas do GitHub
