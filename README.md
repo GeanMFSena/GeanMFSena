@@ -4,6 +4,13 @@
 <img align="right" alt="" width="800px" height="200px" src="./src/banner.gif">
 
 
+
+
+
+
+
+
+
 <br/>
 
 ## 🙋‍♂️ Sobre Mim
