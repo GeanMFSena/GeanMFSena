@@ -1,15 +1,15 @@
 # 👨‍💻 Gean Sena
 **`Desenvolvedor Python`** | **`Analista de Dados`**
 
-<img align="right" alt="" width="800px" height="200px" src="./src/banner.gif">
+<h3 align="left">Connect with me!</h3>
 
-
-
-
-
-
-
-
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gean-sena-5a6a95186/)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/geansena)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geansena990@gmail.com)
+  
+</div>
 
 <br/>
 
@@ -32,16 +32,6 @@ Aqui no meu perfil, você encontrará meus projetos pessoais e estudos de caso f
 
 <img align="right" alt="" height="200px" src="./src/study.gif">
 
-
-<h3 align="left">Connect with me!</h3>
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gean-sena-5a6a95186/)
-  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/geansena)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geansena990@gmail.com)
-  
-</div>
 
 <h3 align="left">My Stack ~</h3>
 
