@@ -36,7 +36,7 @@ Aqui no meu perfil, você encontrará meus projetos pessoais e estudos de caso f
 </div>
 
 
-## 🚀 Tecnologias, Ferramentas e Contatos
+## 🚀 Tecnologias e Ferramentas
 
 
 
