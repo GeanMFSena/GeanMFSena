@@ -1,7 +1,7 @@
 # 👨‍💻 Gean Sena
 **`Desenvolvedor Python`** | **`Analista de Dados`**
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">Contatos!</h3>
 
 <div align="center">
   
@@ -35,6 +35,7 @@ Aqui no meu perfil, você encontrará meus projetos pessoais e estudos de caso f
 
 </div>
 
+<br/>
 
 ## 🚀 Tecnologias e Ferramentas
 
