@@ -50,7 +50,7 @@ Aqui no meu perfil, você encontrará meus projetos pessoais e estudos de caso f
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img width="8" />
   <img align="center" alt="Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img width="8" />
   <img align="center" alt="Numpy" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" /> <img width="8" />
   <img align="center" alt="SQL Server" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> <img width="8" />
   <img align="center" alt="PowerBI" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" /> <img width="8" />
   </div>
