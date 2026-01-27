@@ -40,11 +40,6 @@ Aqui no meu perfil, você encontrará meus projetos pessoais e estudos de caso f
 ## 🚀 Tecnologias e Ferramentas
 
 
-
-<img align="right" alt="" height="200px" src="./src/programing1.jpg">
-
-
-
   ### 📊 Análise de Dados & Back-end
   <div style="display: inline_block">
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img width="8" />
