@@ -1,5 +1,5 @@
 # 👨‍💻 Gean Sena
-**`Desenvolvedor Python`** | **`Analista de Dados`**
+**`Desenvolvedor Python`** | **`Analista de Dados`** | **`Desenvolvedor PHP`** | **`Full Stack`**
 
 <h3 align="left">Contatos!</h3>
 
