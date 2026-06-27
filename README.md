@@ -40,27 +40,17 @@ Aqui no meu perfil, você encontrará meus projetos pessoais e estudos de caso f
 
   ### 📊 Análise de Dados & Back-end
   <div style="display: inline_block">
-- Python
-- Pandas
-- Numpy
-- Matplotlib
-- SQL Server
-- PowerBI
+- Python <br>
+- Pandas <br>
+- Numpy <br>
+- Matplotlib <br>
+- SQL Server <br>
+- PowerBI <br>
   
   ### 🎨 Front-end & Design
-  <div style="display: inline_block">
-  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img width="8" />
-  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img width="8" />
-  <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img width="8" />
-  </div>
-
-  ### 🛠 Ferramentas & Controle de Versão
-  <div style="display: inline_block">
-  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img width="8" />
-  <img align="center" alt="VS Code" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> <img width="8" />
-  </div>  
-
-
+- HTML5 <br>
+- CSS3 <br>
+- Figma <br>
 
 ---
 
