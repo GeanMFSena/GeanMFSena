@@ -12,10 +12,6 @@
 </div>
 
 
-
-
-
-
 <br/>
 
 <div style="display: inline_block">
@@ -38,8 +34,7 @@ Aqui no meu perfil, você encontrará meus projetos pessoais e estudos de caso f
 ## 🚀 Tecnologias e Ferramentas
 
 
-  ### 📊 Análise de Dados & Back-end
-  <div style="display: inline_block">
+### 📊 Análise de Dados & Back-end
 - Python <br>
 - Pandas <br>
 - Numpy <br>
@@ -47,7 +42,7 @@ Aqui no meu perfil, você encontrará meus projetos pessoais e estudos de caso f
 - SQL Server <br>
 - PowerBI <br>
   
-  ### 🎨 Front-end & Design
+### 🎨 Front-end & Design
 - HTML5 <br>
 - CSS3 <br>
 - Figma <br>
